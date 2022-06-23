@@ -113,7 +113,7 @@ public class tp {
     int valeur = -1;
     while(valeur <0){
       for(int k=0;k<=n;k++){
-        System.out.println("Valeur: "+ valeur);
+        //System.out.println("Valeur: "+ valeur);
         valeur+=(k%2);
       }
     }
